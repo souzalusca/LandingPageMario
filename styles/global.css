@@ -17,6 +17,17 @@
   --yellow: #ffc12b;
 }
 
+body {
+    font-size: 16px;
+
+}
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;}}
+
+
+
+
 body, button, a {
   color: var(--text);
   font: 400 1rem "Mukta", sans-serif;
