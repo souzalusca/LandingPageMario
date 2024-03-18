@@ -24,3 +24,4 @@ Este projeto usei para praticar como cria uma LandingPage do filme **Mario Bros*
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
 
+Caso queira visitar o site o link é: https://souzalusca.github.io/LandingPageMario/
